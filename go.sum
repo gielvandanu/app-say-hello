@@ -4,3 +4,5 @@ github.com/gielvandanu/go-say-hello v1.5.0 h1:lGCmzAddP5WAMdm1buK6vJ2QbePD5rwOay
 github.com/gielvandanu/go-say-hello v1.5.0/go.mod h1:Z/rQ1TlTvdZwRAW0II5tczT7Je6BN03DYnL8njz7f8I=
 github.com/gielvandanu/go-say-hello v1.6.0 h1:wy6cMIYsLhQCE1RTmiyHFhpwq8gaEcX6aOAC/7I2pJc=
 github.com/gielvandanu/go-say-hello v1.6.0/go.mod h1:Z/rQ1TlTvdZwRAW0II5tczT7Je6BN03DYnL8njz7f8I=
+github.com/gielvandanu/go-say-hello/v2 v2.0.0 h1:39PM/IWo1egndxQJkA6PMZ7rUd2GZGr8OcTHJ4OuslU=
+github.com/gielvandanu/go-say-hello/v2 v2.0.0/go.mod h1:vVSswvr8sUi2bbPjDvV21mvUFuSBWoZfNJeW5CVbHQA=
